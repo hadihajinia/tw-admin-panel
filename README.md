@@ -1,8 +1,13 @@
-# tw-AdminPanel - a Admin Dashboard With Tailwindcss and AlpineJs
+# tw-admin-panel - a Admin Dashboard With Tailwindcss and AlpineJs
+
+![alt text][logo]
+
+[logo]: https://repository-images.githubusercontent.com/567661098/99f296f5-9fb4-45d5-b586-e632464569a0
+"tw-admin-panel"
 
 ## Available Scripts
 
-In the project directory, you can run:
+for Develop This Project, In the project directory, you can run:
 
 ### `npm install`
 
@@ -16,6 +21,5 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
-### `npm run eject`
 
 ### For See Created Panel Please Open [https://tw-admin-panel.netlify.app/](https://tw-admin-panel.netlify.app/) to view it in your browser.
