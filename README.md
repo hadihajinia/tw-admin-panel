@@ -1,4 +1,4 @@
-# tw-AdminPanel - Right to Left Admin Dashboard With Tailwind
+# tw-AdminPanel - a Admin Dashboard With Tailwindcss and AlpineJs
 
 ## Available Scripts
 
@@ -9,8 +9,6 @@ In the project directory, you can run:
 ### `npm run serve`
 
 Runs the app in the development mode.\
-Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
@@ -19,3 +17,5 @@ You may also see any lint errors in the console.
 ### `npm run build`
 
 ### `npm run eject`
+
+### For See Created Panel Please Open [https://tw-admin-panel.netlify.app/](https://tw-admin-panel.netlify.app/) to view it in your browser.
