@@ -16,6 +16,4 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
-### `npm run eject`
-
 ### For See Created Panel Please Open [https://tw-admin-panel.netlify.app/](https://tw-admin-panel.netlify.app/) to view it in your browser.
